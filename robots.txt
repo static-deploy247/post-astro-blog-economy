@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://static-deploy247.github.io/astro-blog-economy/sitemap-index.xml
